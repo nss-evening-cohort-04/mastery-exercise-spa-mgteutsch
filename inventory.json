@@ -1,0 +1,46 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8,999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Saturn",
+      "model": "Vue",
+      "year": "2008",
+      "price": "1",
+      "description": "This is my car. His name is Pluto because Pluto is no longer a planet and Saturn is no longer a car company. Willing to negotiate down on price."
+    },
+        {
+      "make": "Honda",
+      "model": "Motorcycle",
+      "year": "1979",
+      "price": "4,500",
+      "description": "Ah, how did this get here? I may need to speak with the Product Manager and get this sorted out. In any case, if you duct tape 2 motorcycles together, you'd have a 4-wheeled vehicle... and then we can discuss the philosophical definitions of a car. Just kidding, kindly customer! I'll talk with the Product Manager."
+    },
+        {
+      "make": "Powerwheels",
+      "model": "Barbie Cruiser",
+      "year": "1994",
+      "price": "99",
+      "description": "Yep, just spoke with the Product Manager... well, more or less. I found his resignation letter just left on his desk, along with a brown paper bag filled with what I am absolutely positive is a turd. Haven't opened the bag, my nose suggests it isn't necessary. The only thing left to the imagination is whether it's dog, human, or other."
+    },
+        {
+      "make": "Hotwheels",
+      "model": "Lightning Super Car",
+      "year": "1989",
+      "price": "2",
+      "description": "Sorry, customer, I know it's unprofessional to air out the company's dirty laundry. But I don't understand! I think I've been a pretty fair boss: decent pay, good benefits, generous vacation days, and I don't get suspicious if you call in sick! Just take care of yourself, y'know? Hey, wait a minute, why is this worth twice as much as my Saturn???"
+    },
+        {
+      "make": "Saturn",
+      "model": "Vue - Reduced!",
+      "year": "2008",
+      "price": "0.50",
+      "description": "What's with this guy's hate on my car?!"
+    }
+  ]
+}

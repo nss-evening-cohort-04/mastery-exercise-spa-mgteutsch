@@ -1,0 +1,25 @@
+#navbar {
+	background-color: grey;
+}
+
+#description-editor {
+	margin-left: 10px;
+	max-width: 900px;
+}
+
+#main-title {
+	margin-left: 10px;
+}
+
+.basicCarCard {
+	border: 2px solid darkgrey;
+	text-align: center;
+	max-width: 400px;
+	margin-bottom: 3px;
+
+}
+
+.selectedCarCard {
+	border: 4px solid green;
+	background-color: lightgreen;
+}
